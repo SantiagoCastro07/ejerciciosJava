@@ -91,3 +91,8 @@ Clase principal donde se:
 - Simulación de acciones simples como mostrar información o alimentar animales  
 
 ---
+
+Enlace al documento PDF:
+https://drive.google.com/file/d/1YeEzzOdX0zRFygrrWbUFNw3_5qlx4iGJ/view?usp=sharing
+
+---
