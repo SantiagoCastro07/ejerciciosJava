@@ -1,3 +1,5 @@
+Autor: Miguel Santiago Castro Guerreo  
+
 # 📘 Proyecto Integrado: Gestión de Usuarios y Zoológico en Java
 
 Este proyecto reúne dos ejercicios desarrollados en Java que aplican **Programación Orientada a Objetos**, utilizando herencia, polimorfismo, encapsulamiento y manejo de clases especializadas.  
