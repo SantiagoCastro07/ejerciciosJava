@@ -1,4 +1,4 @@
-package zoologico;
+package ejercicio2_zoologico;
 
 public class Ejercicio2_Zoologico {
     public static void main(String[] args) {
